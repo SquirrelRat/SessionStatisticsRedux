@@ -1,0 +1,7 @@
+Owner: SquirrelRat
+Name: SessionStatisticsRedux
+Repository
+
+Ignore:
+src
+README.md
